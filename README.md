@@ -203,4 +203,4 @@ This repository serves as the official landing page for Naurex. The software is 
 **Get the most recent version of Naurex today!**
 
 ---
-**Last updated:** 2026-11-07 16:46:19 UTC
+**Last updated:** 2026-11-07 20:42:50 UTC
